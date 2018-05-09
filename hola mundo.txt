@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Guti estuvo aqui
+=======
+diego ha estado aqui
+fran ha estado aqui
+hola de nuevo
+hola soy guti
+>>>>>>> af45b0029c05fdd974f98eaf559dd347f2307c92
